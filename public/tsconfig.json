@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "system",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "removeComments": false,
+    "noImplicitAny": false,
+    "rootDir": "app"
+  },
+  "exclude": [
+    "D:/MEAN Projects/Finance_2/node_modules",
+    "node_modules/@angular/core/src/application_ref.d.ts",
+    "lib",
+    "typings/main",
+    "typings/main.d.ts"
+  ]
+}
